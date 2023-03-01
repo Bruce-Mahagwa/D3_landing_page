@@ -31,9 +31,10 @@
 }
 body {
 	min-height: 100vh;
-	background: url("./background.jpg");
+	background: url("./portfolio_background.jpg");
 	background-attachment: fixed;
 	background-repeat: no-repeat;
+	background-size: cover;
 	color: rgb(255, 255, 255);
 	text-align: center;
 	font-family: var(--font-family-primary);
